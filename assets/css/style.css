@@ -21,6 +21,17 @@ h1 {
     padding: 25px;
 }
 
+#result {
+    font-size: 24pt;
+    color: orange;
+    font-weight: bold;
+}
+
+#button-select {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px;
+}
 /* Controls and Message Styles */
 .controls {
     padding: 20px;
